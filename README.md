@@ -6,9 +6,10 @@
   
 # Data Manipulation Time
 
- I decided to bring out the data regarding how many talents there are in the universe and how many pokemon have them.
- I decided to bring out and regroup the data concerning the basic statistics of pokemon.
- I decided to bring out the data concerning the number of new pokémons that each new generation brings.
+  I decided to bring out the data concerning the relationship that each pokemon has with the different types ( the damage their personal type does to other types )
+  I decided to bring out the data regarding how many talents there are in the universe and how many pokemon have them.
+  I decided to bring out and regroup the data concerning the basic statistics of pokemon.
+  I decided to bring out the data concerning the number of new pokémons that each new generation brings.
  
  
 # The Knowledge used

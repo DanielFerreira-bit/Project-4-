@@ -2,12 +2,22 @@
 
 # Choose Time
 
-  J'ai décidé de prendre un dataset sur l'univers de Pokémon afin de pouvoir améliorer mes connaissances sur cette immense univers. J'ai pris le dataset sur Kaggle. 
+  I decided to take a dataset on the Pokémon universe in order to be able to improve my knowledge of this immense universe. I took the dataset from Kaggle.com/datasets .
   
 # Data Manipulation Time
 
- J'ai décidé de faire ressortir les données concernant le nombre de talents qui existe dans l'univers et combien de pokémon les possèdent. 
- J'ai décidé de faire ressortir et de regrouper les données concernant les statistiques de base des pokémons.
- J'ai décidé de faire ressortir les données concernant le nombre de nouveaux pokémons qu'apportent chaque nouvelle génération.
+ I decided to bring out the data regarding how many talents there are in the universe and how many pokemon have them.
+ I decided to bring out and regroup the data concerning the basic statistics of pokemon.
+ I decided to bring out the data concerning the number of new pokémons that each new generation brings.
  
  
+# The Knowledge used
+
+  In the code, we only see the histogram concerning the contribution of pokémons to each generation.
+  
+# Some ideas to improve the project
+
+  - Use all the data available in the dataset
+  - Have a more complete dataset
+  - Different analyzes concerning one single data
+  
